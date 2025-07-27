@@ -77,10 +77,11 @@
 ---
 
 ### 📗 GeeksforGeeks
-> Solved 150+ problems | Active contributor  
-🔗 [GFG Profile]([https://auth.geeksforgeeks.org/user/your-gfg-username](https://www.geeksforgeeks.org/user/dineshah8tj0/))
+[![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-1572B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/dineshah8tj0/)
 
-<!-- Replace with a screenshot if you'd like -->
+> 📚 Solved 150+ problems  
+> *(Click the badge to view profile. Screenshot embed recommended for live visual)*
+
 
 ---
 
