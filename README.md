@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Aher</h1>
-<h3 align="center">Final Year IT Student | MERN Stack Developer | Competitive Programmer | Hackathon Winner</h3>
+<h3 align="center">Final Year IT Student | MERN Stack Developer | Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Smart+India+Hackathon+2024+Winner;Full-stack+Web+Developer;Competitive+Programmer;TechZooka+Summit+Invitee" alt="Typing SVG" />
