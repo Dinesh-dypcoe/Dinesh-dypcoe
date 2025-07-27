@@ -109,7 +109,7 @@
 - 🔗 [Portfolio](https://portfolio-dinesh-delta.vercel.app/)
 - 📘 [LeetCode](https://leetcode.com/u/dineshaher/)
 - ⚔️ [CodeChef](https://www.codechef.com/users/dineshaher)
-- 📗 [GeeksforGeeks]([https://auth.geeksforgeeks.org/user/your-gfg-username](https://www.geeksforgeeks.org/user/dineshah8tj0/))
+- 📗 [GeeksforGeeks]([[https://auth.geeksforgeeks.org/user/your-gfg-username](https://www.geeksforgeeks.org/user/dineshah8tj0/)](https://www.geeksforgeeks.org/user/dineshah8tj0/))
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dineshaher/)
 - 💻 [GitHub](https://github.com/Dinesh-dypcoe)
 
