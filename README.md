@@ -109,7 +109,6 @@
 - 🔗 [Portfolio](https://portfolio-dinesh-delta.vercel.app/)
 - 📘 [LeetCode](https://leetcode.com/u/dineshaher/)
 - ⚔️ [CodeChef](https://www.codechef.com/users/dineshaher)
-- 📗 [GeeksforGeeks]((https://www.geeksforgeeks.org/user/dineshah8tj0/))
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dineshaher/)
 - 💻 [GitHub](https://github.com/Dinesh-dypcoe)
 
