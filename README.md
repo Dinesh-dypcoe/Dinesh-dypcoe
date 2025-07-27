@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 Final Year B.E. (IT), **D.Y. Patil College of Engineering, Pune**
-- 🏆 **Smart India Hackathon 2024 Winner** – MP Police Solution  
+- 🏆 **Smart India Hackathon 2024 Winner** 
 - 💻 Full Stack Developer experienced with **MERN stack**, MVC, APIs
 - 🎯 Solved **700+ DSA problems** on LeetCode, CodeChef, GFG
 - 👨‍🏫 Vice Admiral @CPMC | Led 10+ coding events | Mentored 50+ juniors
