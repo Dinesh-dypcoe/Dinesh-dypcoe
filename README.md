@@ -80,7 +80,7 @@
 [![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-1572B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/dineshah8tj0/)
 
 > 📚 Solved 150+ problems  
-> *(Click the badge to view profile. Screenshot embed recommended for live visual)*
+> *(Click the badge to view profile.)*
 
 
 ---
