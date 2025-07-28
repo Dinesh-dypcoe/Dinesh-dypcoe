@@ -16,6 +16,7 @@
 - 👨‍🏫 Vice Admiral @CPMC | Led 10+ coding events | Mentored 50+ juniors
 - 🌟 Interned at Codtech IT Solutions — built scalable backends
 - 📌 Passionate about **DSA, scalable systems, real-world problem-solving**
+- email: dineshaher2505@gmail.com
 
 ---
 
